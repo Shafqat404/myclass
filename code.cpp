@@ -10,7 +10,8 @@ int rectangle(int a ,int b);
 int area::square(int a){
 return a*a;}
 
-
+int area::rectangle(int a,int b){
+return a*b;}
 
 int main(){
 
