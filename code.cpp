@@ -7,8 +7,12 @@ int square(int a);
 int rectangle(int a ,int b);
 }
 
+area::area(){
+}
 int area::square(int a){
 return a*a;}
+
+
 
 int area::rectangle(int a,int b){
 return a*b;}
